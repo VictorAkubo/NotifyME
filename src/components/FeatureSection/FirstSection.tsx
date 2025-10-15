@@ -1,4 +1,4 @@
-import React from "react";
+
 import TriangleIcon from "../../icons/TriangleIcon";
 
 const FirstSection = () => {
