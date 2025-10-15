@@ -5,7 +5,6 @@ import FeatureSection from './components/FeatureSection/FeatureSection.tsx'
 import Footer from './components/Footer.tsx'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <div className='flex flex-col justify-center items-center'>
