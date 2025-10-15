@@ -1,5 +1,3 @@
-import React from 'react'
-
 const FifthSection = () => {
   return (
     <section className='flex border-t border-gallery text-balance'>
